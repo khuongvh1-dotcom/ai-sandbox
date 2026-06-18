@@ -1,2 +1,2 @@
 ﻿def add(a, b):
-    raise NotImplementedError("implement me")
+    return a + b
